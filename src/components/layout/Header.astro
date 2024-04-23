@@ -11,6 +11,7 @@ import LanguagePicker from '../LanguagePicker.astro'
 		<div class='flex flex-row items-center justify-center gap-x-3'>
 			<LanguagePicker />
 			<button
+				transition:persist
 				id='toggleDarkMode'
 				class='relative rounded-md border border-border p-2 transition-all hover:bg-border'
 			>
