@@ -1,13 +1,10 @@
 ---
-import { languages } from '../i18n/ui'
+import { getLangFromUrl } from 'src/i18n/utils'
+const lang = getLangFromUrl(Astro.url)
 ---
 
-<ul>
-	{
-		Object.entries(languages).map(([lang, label]) => (
-			<li>
-				<a href={`/${lang}/`}>{label}</a>
-			</li>
-		))
-	}
-</ul>
+<span class='sr-only'>Languages</span>
+<button class='relative rounded-md border border-border p-2
+transition-all hover:bg-border'
+	>{lang === 'en' ? <a href={'/de/'}>DE</a> : <a href={'/en/'}>EN</a>}
+</button>
