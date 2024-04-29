@@ -1,5 +1,8 @@
 ---
+import { getLangFromUrl, useTranslations } from 'src/i18n/utils'
 
+const lang = getLangFromUrl(Astro.url)
+const t = useTranslations(lang)
 ---
 
 <footer class='mx-auto mt-24 w-full'>
@@ -15,7 +18,12 @@
 
 			<div class='flex items-center justify-between'>
 				<!-- Social Brands -->
+
 				<div class='flex items-center gap-x-4'>
+					<a
+						class='inline-block text-muted-foreground transition-all hover:text-muted-foreground/75'
+						href={lang === 'de' ? `/${lang}/impressum` : `/${lang}/imprint`}>{t('imprint')}</a
+					>
 					<!-- Linkedin -->
 					<a
 						class='inline-block text-muted-foreground transition-all hover:text-muted-foreground/75'
