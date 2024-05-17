@@ -27,7 +27,7 @@ export const ui = {
 		'exp.gg.job': 'Volunteer & Teacher',
 		'exp.gg.date': 'Dec 2023 - Mar 2024',
 		'exp.gg.point1':
-			'Teaching young underprivileged students in in Ghana about basic computer skills with Scratch, soft skills and beginner Python courses.',
+			'Teaching young underprivileged students in Ghana in basic computer skills with Scratch, soft skills, beginner Python courses and robotics.',
 		'exp.gg.point2': 'Supporting the local team in mangaging the daily NGO business.',
 		'exp.trifull': 'trinnovative GmbH - Germany, Regensburg',
 		'exp.trifull.job': 'Software Engineer & IT-Consultant',
