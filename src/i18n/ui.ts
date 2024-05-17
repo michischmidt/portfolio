@@ -46,7 +46,7 @@ export const ui = {
 		'exp.tri.point1':
 			"Researching, designing, and implementing my Bachelor's thesis for a cost-effective multi-tenant SaaS solution for a generic booking app for AWS using Adobe XD, AWS services, Serverless architecture, React, Material UI and Express.",
 		'exp.tri.point2':
-			'Supporting the team in external projects frontend development with React and Material UI.',
+			'Supporting the developing teams in customer projects in frontend development, backend and cloud areas.',
 		'exp.tri.point3': 'Updating the subscription payment of a React frontend using Stripe.',
 		'exp.daimler': 'Daimler AG - Germany, Stuttgart',
 		'exp.daimler.job': 'App Development Intern',
@@ -95,7 +95,7 @@ export const ui = {
 		'exp.gg.job': 'Freiwilliger & Lehrer',
 		'exp.gg.date': 'Dez 2023 - Mär 2024',
 		'exp.gg.point1':
-			'Unterricht junger unterpriviligierter Schüler in Ghana zu grundlegenden Computerkenntnissen mit Scratch, Soft Skills und Einsteiger-Python-Kursen.',
+			'Unterrichten von jungen unterpriviligierten Schüler in Ghana zu grundlegenden Computerkenntnissen mit Scratch, Soft Skills, Einsteiger Python Kursen und Robotics.',
 		'exp.gg.point2': 'Unterstützung des örtlichen Teams bei der täglichen NGO-Geschäftsführung.',
 		'exp.trifull': 'trinnovative GmbH - Deutschland, Regensburg',
 		'exp.trifull.job': 'Softwareentwickler & IT-Berater',
@@ -114,7 +114,7 @@ export const ui = {
 		'exp.tri.point1':
 			'Recherche, Design und Implementierung meiner Bachelorarbeit für eine kostengünstige Multi-Tenant-SaaS-Lösung für eine generische Buchungs-App für AWS unter Verwendung von Adobe XD, AWS-Services, Serverless-Architektur, React, Material UI und Express.',
 		'exp.tri.point2':
-			'Unterstützung des Teams bei der Frontend-Entwicklung externer Projekte mit React und Material UI.',
+			'Unterstützung der Entwickler Teams bei in den Bereichen Frontend, Backend und Cloud.',
 		'exp.tri.point3': 'Aktualisierung der Abonnementsystems eines React Frontends mit Stripe.',
 		'exp.daimler': 'Daimler AG - Deutschland, Stuttgart',
 		'exp.daimler.job': 'Praktikant in der App-Entwicklung',
