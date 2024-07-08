@@ -37,8 +37,10 @@ export const ui = {
 		'exp.trifull.point2':
 			'Designing, coordinating, and implementing an internal intranet for existing and new self-services using Figma, Kubernetes, Azure, Turborepo, React, and Material UI.',
 		'exp.trifull.point3':
-			'Holding interal and external trainings for developers in React and Distributed Systems.',
+			'Training new full-time frontend developers from HTML, CSS & JS/TS to React, leading to full integration with best practices and state-of-the-art technologies in client projects.',
 		'exp.trifull.point4':
+			'Holding interal and external trainings for developers in React and Distributed Systems.',
+		'exp.trifull.point5':
 			'Implementing and updating a React frontend with Material UI for a generic logisctics depostion software for a customer.',
 		'exp.tri': 'trinnovative GmbH - Germany, Regensburg',
 		'exp.tri.job': 'Working Student',
@@ -105,8 +107,10 @@ export const ui = {
 		'exp.trifull.point2':
 			'Entwurf, Koordination und Implementierung eines internen Intranets für bestehende und neue Self-Services mit Figma, Kubernetes, Azure, Turborepo, React und Material UI.',
 		'exp.trifull.point3':
-			'Durchführung interner und externer Schulungen für Entwickler in React und verteilten Systemen.',
+			'Ausbildung neuer Vollzeit-Frontendentwickler von HTML, CSS & JS/TS hin zu React, bis hin zur vollständigen Integrierung mit Best Practices und State-of-the-Art Technologien in Kundenprojekten.',
 		'exp.trifull.point4':
+			'Durchführung interner und externer Schulungen für Entwickler in React und verteilten Systemen.',
+		'exp.trifull.point5':
 			'Implementierung und Aktualisierung eines React-Frontends mit Material UI für eine generische Logistik-Depositionssoftware für einen Kunden.',
 		'exp.tri': 'trinnovative GmbH - Deutschland, Regensburg',
 		'exp.tri.job': 'Werkstudent',
