@@ -9,29 +9,12 @@ import SkillLayout from '../../components/SkillLayout.astro'
 import { Image } from 'astro:assets'
 import astro from '../../assets/michaelschmidt.png'
 import { getLangFromUrl, useTranslations } from '../../i18n/utils'
+import skills from 'src/data/skills'
 
 const lang = getLangFromUrl(Astro.url)
 const t = useTranslations(lang)
 
 const languages = ['German (Native)', 'English (Fluent)', 'Russian (Intermediate)']
-const frontend = [
-	'HTML',
-	'CSS',
-	'React',
-	'Next.js',
-	'TanStack (React) Query',
-	'Tailwind CSS',
-	'Material UI',
-	'Storybook',
-	'React Native',
-	'Astro.js'
-]
-const backend = ['REST', 'RPC', 'Node.js', 'Express', 'Spring Boot', 'Serverless Functions']
-const database = ['SQL', 'NoSQL', 'Key/Value Stores', 'DynamoDB', 'PostgreSQL']
-const cloud = ['AWS', 'Azure', 'Firebase', 'Vercel', 'Terraform']
-const design = ['Figma', 'Canva']
-const programming = ['TypeScript', 'JavaScript', 'Java', 'Python']
-const others = ['Git', 'Scrum', 'DevOps', 'Turborepo', 'CI/CD', 'Docker', 'Atlassian Toolchain']
 ---
 
 <PageLayout meta={{ title: 'Portfolio - Michael Schmidt' }}>
@@ -124,7 +107,6 @@ const others = ['Git', 'Scrum', 'DevOps', 'Turborepo', 'CI/CD', 'Docker', 'Atlas
 		<Section title={t('exp.title')}>
 			<Card
 				heading={t('exp.gg')}
-				'
 				subheading={t('exp.gg.job')}
 				date={t('exp.gg.date')}
 				altText='Software Engineer & IT-Consultant'
@@ -157,6 +139,9 @@ const others = ['Git', 'Scrum', 'DevOps', 'Turborepo', 'CI/CD', 'Docker', 'Atlas
 					</li>
 					<li>
 						{t('exp.trifull.point4')}
+					</li>
+					<li>
+						{t('exp.trifull.point5')}
 					</li>
 				</ul>
 			</Card>
@@ -212,13 +197,13 @@ const others = ['Git', 'Scrum', 'DevOps', 'Turborepo', 'CI/CD', 'Docker', 'Atlas
 		</Section>
 		<Section title={t('skills.title')}>
 			<SkillLayout title={t('skills.languages')} skills={languages} />
-			<SkillLayout title={t('skills.programming')} skills={programming} />
-			<SkillLayout title='Frontend' skills={frontend} />
-			<SkillLayout title='Backend' skills={backend} />
-			<SkillLayout title={t('skills.database')} skills={database} />
-			<SkillLayout title='Cloud' skills={cloud} />
-			<SkillLayout title='Design' skills={design} />
-			<SkillLayout title={t('skills.others')} skills={others} />
+			<SkillLayout title={t('skills.programming')} skills={skills.programming} />
+			<SkillLayout title='Frontend' skills={skills.frontend} />
+			<SkillLayout title='Backend' skills={skills.backend} />
+			<SkillLayout title={t('skills.database')} skills={skills.database} />
+			<SkillLayout title='Cloud' skills={skills.cloud} />
+			<SkillLayout title='Design' skills={skills.design} />
+			<SkillLayout title={t('skills.others')} skills={skills.others} />
 		</Section>
 		<Section title={t('projects.title')}>
 			<div class='flex flex-col gap-y-3 sm:flex-row sm:gap-x-3 sm:gap-y-0'>

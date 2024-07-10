@@ -1,4 +1,5 @@
 ---
+import { contactInfo } from 'src/data/contact'
 import PageLayout from '../../layouts/BaseLayout.astro'
 import { getLangFromUrl, useTranslations } from 'src/i18n/utils'
 
@@ -10,10 +11,10 @@ const t = useTranslations(lang)
 	<div class='flex w-full flex-col gap-y-10'>
 		<h1 class='text-3xl'>{t('imprint')}</h1>
 		<div class='col-span-1 grid'>
-			<p>Michael schmidt</p>
-			<p>Lilienthalstr. 40 93049 Regensburg</p>
-			<p>Mobile: (+49)-176-61382505</p>
-			<p>E-Mail: schmidt.m.work@gmail.com</p>
+			<p>{contactInfo.name}</p>
+			<p>{contactInfo.address}</p>
+			<p>Mobile: {contactInfo.mobile}</p>
+			<p>E-Mail: {contactInfo.email}</p>
 		</div>
 		<div class='col-span-1 grid'>
 			<h3 class='text-xl'>{t('imprint.agb')}</h3>
