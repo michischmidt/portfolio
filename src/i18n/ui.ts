@@ -40,8 +40,8 @@ export const ui = {
 			'Training new full-time frontend developers from HTML, CSS & JS/TS to React, leading to full integration with best practices and state-of-the-art technologies in client projects.',
 		'exp.trifull.point4':
 			'Holding interal and external trainings for developers in React and Distributed Systems.',
-		'exp.trifull.point5':
-			'Implementing and updating a React frontend with Material UI for a generic logisctics depostion software for a customer.',
+		// 'exp.trifull.point5':
+		// 	'Implementing and updating a React frontend with Material UI for a generic logisctics depostion software for a customer.',
 		'exp.tri': 'trinnovative GmbH - Germany, Regensburg',
 		'exp.tri.job': 'Working Student',
 		'exp.tri.date': 'Apr 2019 - Apr 2022',
@@ -110,8 +110,8 @@ export const ui = {
 			'Ausbildung neuer Vollzeit-Frontendentwickler von HTML, CSS & JS/TS hin zu React, bis hin zur vollständigen Integrierung mit Best Practices und State-of-the-Art Technologien in Kundenprojekten.',
 		'exp.trifull.point4':
 			'Durchführung interner und externer Schulungen für Entwickler in React und verteilten Systemen.',
-		'exp.trifull.point5':
-			'Implementierung und Aktualisierung eines React-Frontends mit Material UI für eine generische Logistik-Depositionssoftware für einen Kunden.',
+		// 'exp.trifull.point5':
+		// 	'Implementierung und Aktualisierung eines React-Frontends mit Material UI für eine generische Logistik-Depositionssoftware für einen Kunden.',
 		'exp.tri': 'trinnovative GmbH - Deutschland, Regensburg',
 		'exp.tri.job': 'Werkstudent',
 		'exp.tri.date': 'Apr 2019 - Apr 2022',
@@ -129,7 +129,7 @@ export const ui = {
 			'Unterstützung des Teams bei der Feature-Entwicklung, Qualitätsanalyse und Kommunikation zwischen den Abteilungen.',
 		'edu.title': 'Ausbildung',
 		'edu.uni': 'Universität Regensburg',
-		'edu.uni.degree': 'Master of Science in Medieninformatik (on hold)',
+		'edu.uni.degree': 'Master of Science in Medieninformatik (pausiert)',
 		'edu.uni.date': 'Okt 2021 - Nov 2022',
 		'edu.oth': 'Hochschule Regensburg',
 		'edu.oth.degree': 'Bachelor of Science in Informatik',
