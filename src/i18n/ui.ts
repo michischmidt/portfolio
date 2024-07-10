@@ -45,7 +45,7 @@ export const ui = {
 		'exp.trifull.point6':
 			'Research, testing, and evaluation of new technologies and tools for front-end development.',
 		'exp.trifull.point7':
-			'Quick implementation of applications for advertising purposes, such as the presentation of machine learning algorithms or integration of AI tools APIs in web applications.',
+			'Quick implementation of applications for advertising purposes, such as the presentation of machine learning algorithms or integration of AI tools APIs in Web Applications.',
 		'exp.tri': 'trinnovative GmbH - Germany, Regensburg',
 		'exp.tri.job': 'Working Student',
 		'exp.tri.date': 'Apr 2019 - Apr 2022',
