@@ -42,6 +42,10 @@ export const ui = {
 			'Holding interal and external trainings for developers in React and Distributed Systems.',
 		'exp.trifull.point5':
 			'Relaunch of a complex React frontend with Material UI for a generic logisctics depostion software for a customer.',
+		'exp.trifull.point6':
+			'Research, testing, and evaluation of new technologies and tools for front-end development.',
+		'exp.trifull.point7':
+			'Quick implementation of applications for advertising purposes, such as the presentation of machine learning algorithms or integration of AI tools APIs in web applications.',
 		'exp.tri': 'trinnovative GmbH - Germany, Regensburg',
 		'exp.tri.job': 'Working Student',
 		'exp.tri.date': 'Apr 2019 - Apr 2022',
@@ -112,6 +116,10 @@ export const ui = {
 			'Durchführung interner und externer Schulungen für Entwickler in React und verteilten Systemen.',
 		'exp.trifull.point5':
 			'Relaunch eines komplexen React-Frontends mit Material UI für eine generische Logistik-Depositionssoftware für einen Kunden.',
+		'exp.trifull.point6':
+			'Rechereche, Testen und Evaluiereung von neuen Technologien und Tools für die Frontend-Entwicklung.',
+		'exp.trifull.point7':
+			'Schnelle Umsetzung von Anwendungen für Werbezwecke wie z.B. Machine Learning Algorithmen Darstellungen oder KI Tools API Anbindungen in Webapplikationen.',
 		'exp.tri': 'trinnovative GmbH - Deutschland, Regensburg',
 		'exp.tri.job': 'Werkstudent',
 		'exp.tri.date': 'Apr 2019 - Apr 2022',
@@ -119,7 +127,7 @@ export const ui = {
 			'Recherche, Design und Implementierung meiner Bachelorarbeit für eine kostengünstige Multi-Tenant-SaaS-Lösung für eine generische Buchungs-App für AWS unter Verwendung von Adobe XD, AWS-Services, Serverless-Architektur, React, Material UI und Express.',
 		'exp.tri.point2':
 			'Unterstützung der Entwickler Teams bei in den Bereichen Frontend, Backend und Cloud.',
-		'exp.tri.point3': 'Aktualisierung der Abonnementsystems eines React Frontends mit Stripe.',
+		'exp.tri.point3': 'Aktualisierung des Abonnementsystems eines React Frontends mit Stripe.',
 		'exp.daimler': 'Daimler AG - Deutschland, Stuttgart',
 		'exp.daimler.job': 'Praktikant in der App-Entwicklung',
 		'exp.daimler.date': 'Aug 2018 - Jan 2019',
