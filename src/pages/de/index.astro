@@ -14,7 +14,11 @@ import skills from 'src/data/skills'
 const lang = getLangFromUrl(Astro.url)
 const t = useTranslations(lang)
 
-const languages = ['German (Native)', 'English (Fluent)', 'Russian (Intermediate)']
+const languages = [
+	'Deutsch (Muttersprache)',
+	'Englisch (Verhandlungssicher)',
+	'Russisch (Intermediate)'
+]
 ---
 
 <PageLayout meta={{ title: 'Portfolio - Michael Schmidt' }}>
