@@ -61,6 +61,8 @@ export const ui = {
 			"Creation of a PoC API for push notifications for an internal employee self-service app using Java, Firebase and interal API's.",
 		'exp.daimler.point2':
 			'Supporting the team in feature development, quality analysis and communication between departures.',
+		'exp.daimler.point3':
+			'Presentation of the results to management and creation of a detailed documentation.',
 		'edu.title': 'Education',
 		'edu.uni': 'University of Regensburg',
 		'edu.uni.degree': 'Master of Science in Medieninformatik (on hold)',
@@ -135,6 +137,8 @@ export const ui = {
 			'Erstellung einer PoC-API für Push-Benachrichtigungen für eine interne Mitarbeiter-Self-Service-App unter Verwendung von Java, Firebase und internen APIs.',
 		'exp.daimler.point2':
 			'Unterstützung des Teams bei der Feature-Entwicklung, Qualitätsanalyse und Kommunikation zwischen den Abteilungen.',
+		'exp.daimler.point3':
+			'Präsentierung der Ergebnisse des Praktikums vor dem Management und Erstellung einer ausführlichen Dokumentation.',
 		'edu.title': 'Ausbildung',
 		'edu.uni': 'Universität Regensburg',
 		'edu.uni.degree': 'Master of Science in Medieninformatik (pausiert)',
