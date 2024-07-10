@@ -232,6 +232,15 @@ const others = ['Git', 'Scrum', 'DevOps', 'Turborepo', 'CI/CD', 'Docker', 'Atlas
 			<SkillLayout title='Design' skills={design} />
 			<SkillLayout title={t('skills.others')} skills={others} />
 		</Section>
+		<Section title={t('certs.title')}>
+			<Card
+				heading={t('certs.oose')}
+				subheading='Infrastructure, Container & Cloud Native'
+				imagePath='/src/assets/about-astro.png'
+				altText='Lorem, ipsum dolor sit'
+				imageClass='h-11 w-auto md:-left-16'
+			/>
+		</Section>
 		<Section title={t('projects.title')}>
 			<div class='flex flex-col gap-y-3 sm:flex-row sm:gap-x-3 sm:gap-y-0'>
 				<ProjectCard
@@ -251,16 +260,6 @@ const others = ['Git', 'Scrum', 'DevOps', 'Turborepo', 'CI/CD', 'Docker', 'Atlas
 					class='w-full sm:w-1/2'
 				/>
 			</div>
-		</Section>
-
-		<Section title={t('certs.title')}>
-			<Card
-				heading={t('certs.oose')}
-				subheading='Infrastructure, Container & Cloud Native'
-				imagePath='/src/assets/about-astro.png'
-				altText='Lorem, ipsum dolor sit'
-				imageClass='h-11 w-auto md:-left-16'
-			/>
 		</Section>
 	</div>
 </PageLayout>

@@ -47,7 +47,7 @@ export const ui = {
 		'exp.trifull.point7':
 			'Quick implementation of applications for advertising purposes, such as the presentation of machine learning algorithms or integration of AI tools APIs in Web Applications.',
 		'exp.tri': 'trinnovative GmbH - Germany, Regensburg',
-		'exp.tri.job': 'Working Student',
+		'exp.tri.job': 'Working Student in Webdevelopment',
 		'exp.tri.date': 'Apr 2019 - Apr 2022',
 		'exp.tri.point1':
 			"Researching, designing, and implementing my Bachelor's thesis for a cost-effective multi-tenant SaaS solution for a generic booking app for AWS using Adobe XD, AWS services, Serverless architecture, React, Material UI and Express.",
@@ -113,7 +113,7 @@ export const ui = {
 		'exp.trifull.point2':
 			'Entwurf, Koordination und Implementierung eines internen Intranets für bestehende und neue Self-Services mit Figma, Kubernetes, Azure, Turborepo, React und Material UI.',
 		'exp.trifull.point3':
-			'Ausbildung neuer Vollzeit-Frontendentwickler von HTML, CSS & JS/TS hin zu React, bis hin zur vollständigen Integrierung mit Best Practices und State-of-the-Art Technologien in Kundenprojekten.',
+			'Ausbildung neuer Vollzeit-Frontendentwickler von HTML, CSS & JS/TS hin zu React, bis hin zur vollständigen Integrierung mit Best Practices und State-of-the-Art Technologien in Kundenprojekte.',
 		'exp.trifull.point4':
 			'Durchführung interner und externer Schulungen für Entwickler in React und verteilten Systemen.',
 		'exp.trifull.point5':
@@ -123,10 +123,10 @@ export const ui = {
 		'exp.trifull.point7':
 			'Schnelle Umsetzung von Anwendungen für Werbezwecke wie z.B. Machine Learning Algorithmen Darstellungen oder KI Tools API Anbindungen in Webapplikationen.',
 		'exp.tri': 'trinnovative GmbH - Deutschland, Regensburg',
-		'exp.tri.job': 'Werkstudent',
+		'exp.tri.job': 'Werkstudent im Webdevelopment',
 		'exp.tri.date': 'Apr 2019 - Apr 2022',
 		'exp.tri.point1':
-			'Recherche, Design und Implementierung meiner Bachelorarbeit für eine kostengünstige Multi-Tenant-SaaS-Lösung für eine generische Buchungs-App für AWS unter Verwendung von Adobe XD, AWS-Services, Serverless-Architektur, React, Material UI und Express.',
+			'Recherche, Design und Implementierung meiner Bachelorarbeit für eine kostenoptimierte Multi-Tenant-SaaS-Lösung für eine generische Buchungs-App für AWS unter Verwendung von Adobe XD, AWS-Services, Serverless-Architektur, React, Material UI und Express.',
 		'exp.tri.point2':
 			'Unterstützung der Entwickler Teams bei in den Bereichen Frontend, Backend und Cloud.',
 		'exp.tri.point3': 'Aktualisierung des Abonnementsystems eines React Frontends mit Stripe.',
