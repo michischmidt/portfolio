@@ -80,6 +80,9 @@ export const ui = {
 		'projects.fs.title': 'Frontstart - React Training',
 		'projects.fs.text':
 			'Landing Page for React Training Programm I created. Build with Next.js, React, Tailwind and hosted on Vercel.',
+		'projects.vue.title': 'Carrersite - Vue.js Starter Project',
+		'projects.vue.text':
+			'One day project - simple CRUD SPA to get familiar with the Vue.js Framework. Build with Vue.ts, Tailwind, shadcn/vue, TanStack Query, JSONPlaceholder API and hosted on Vercel.',
 		'certs.title': 'Certifications',
 		'certs.oose': 'oose iSQB Qualification - Germany, Hamburg'
 	},
@@ -156,6 +159,9 @@ export const ui = {
 		'projects.fs.title': 'Frontstart - React Schulungen',
 		'projects.fs.text':
 			'Landing Page für das von mir erstellte React Trainingsprogramm. Entwickelt mit Next.js, React, Tailwind und gehostet auf Vercel.',
+		'projects.vue.title': 'Karriereseite - Vue.js Starterprojekt',
+		'projects.vue.text':
+			'Ein eintägiges Projekt - einfache CRUD-SPA, um sich mit dem Vue.js Framework vertraut zu machen. Erstellt mit Vue.ts, Tailwind, shadcn/vue, TanStack Query, JSONPlaceholder API und gehostet auf Vercel.',
 		'certs.title': 'Zertifizierungen',
 		'certs.oose': 'oose iSQB Qualifikation - Deutschland, Hamburg'
 	}
