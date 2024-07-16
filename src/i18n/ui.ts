@@ -43,8 +43,6 @@ export const ui = {
 		'exp.trifull.point5':
 			'Relaunch of a complex React frontend with Material UI for a generic logisctics depostion software for a customer.',
 		'exp.trifull.point6':
-			'Research, testing, and evaluation of new technologies and tools for front-end development.',
-		'exp.trifull.point7':
 			'Quick implementation of applications for advertising purposes, such as the presentation of machine learning algorithms or integration of AI tools APIs in Web Applications.',
 		'exp.tri': 'trinnovative GmbH - Germany, Regensburg',
 		'exp.tri.job': 'Working Student in Webdevelopment',
@@ -122,8 +120,6 @@ export const ui = {
 		'exp.trifull.point5':
 			'Relaunch eines komplexen React-Frontends mit Material UI für eine generische Logistik-Depositionssoftware für einen Kunden.',
 		'exp.trifull.point6':
-			'Rechereche, Testen und Evaluiereung von neuen Technologien und Tools für die Frontend-Entwicklung.',
-		'exp.trifull.point7':
 			'Schnelle Umsetzung von Anwendungen für Werbezwecke wie z.B. Machine Learning Algorithmen Darstellungen oder KI Tools API Anbindungen in Webapplikationen.',
 		'exp.tri': 'trinnovative GmbH - Deutschland, Regensburg',
 		'exp.tri.job': 'Werkstudent im Webdevelopment',
