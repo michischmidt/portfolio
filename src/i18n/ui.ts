@@ -110,7 +110,7 @@ export const ui = {
 		'exp.trifull.job': 'Softwareentwickler & IT-Berater',
 		'exp.trifull.date': 'Apr 2022 - Dez 2023',
 		'exp.trifull.point1':
-			'Entwicklung einer benutzerdefinierten npm Komponentenbibliothek für React mithilfe von tsdx, Tailwind und Storybook. Implementierung eines Webportals für mehrere Stakeholder für einen Kunden mit Next.js mit der eben genannten Komponent Library.',
+			'Entwicklung einer benutzerdefinierten npm Komponentenbibliothek für React mithilfe von TSDX, Tailwind und Storybook. Implementierung eines Webportals für mehrere Stakeholder für einen Kunden mit Next.js mit der eben genannten Komponent Library.',
 		'exp.trifull.point2':
 			'Entwurf, Koordination und Implementierung eines internen Intranets für bestehende und neue Self-Services mit Figma, Kubernetes, Azure, Turborepo, React und Material UI.',
 		'exp.trifull.point3':
