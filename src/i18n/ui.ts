@@ -33,7 +33,7 @@ export const ui = {
 		'exp.trifull.job': 'Software Engineer & IT-Consultant',
 		'exp.trifull.date': 'Apr 2022 - Dec 2023',
 		'exp.trifull.point1':
-			'Developing a custom React component library with Tailwind CSS and implementing a web portal for multiple stakeholders for a customer.',
+			'Development of a custom npm component library for React using TSDX, Tailwind, and Storybook. Implementation of a web portal for multiple stakeholders for a client using Next.js with the aforementioned component library.',
 		'exp.trifull.point2':
 			'Designing, coordinating, and implementing an internal intranet for existing and new self-services using Figma, Kubernetes, Azure, Turborepo, React, and Material UI.',
 		'exp.trifull.point3':
@@ -50,7 +50,7 @@ export const ui = {
 		'exp.tri.point1':
 			"Researching, designing, and implementing my Bachelor's thesis for a cost-effective multi-tenant SaaS solution for a generic booking app for AWS using Adobe XD, AWS services, Serverless architecture, React, Material UI and Express.",
 		'exp.tri.point2':
-			'Supporting the developing teams in customer projects in frontend development, backend and cloud areas.',
+			'Supporting the development teams in the areas of Frontend (HTML, CSS, JS/TS, React, Angular, Flutter), Backend (Node.js, JS/TS, Java, Python), and Cloud (Azure, AWS).',
 		'exp.tri.point3': 'Updating the subscription payment of a React frontend using Stripe.',
 		'exp.daimler': 'Daimler AG - Germany, Stuttgart',
 		'exp.daimler.job': 'App Development Intern',
@@ -110,7 +110,7 @@ export const ui = {
 		'exp.trifull.job': 'Softwareentwickler & IT-Berater',
 		'exp.trifull.date': 'Apr 2022 - Dez 2023',
 		'exp.trifull.point1':
-			'Entwicklung einer benutzerdefinierten React Komponentenbibliothek mit Tailwind CSS und Implementierung eines Webportals für mehrere Stakeholder für einen Kunden.',
+			'Entwicklung einer benutzerdefinierten npm Komponentenbibliothek für React mithilfe von tsdx, Tailwind und Storybook. Implementierung eines Webportals für mehrere Stakeholder für einen Kunden mit Next.js mit der eben genannten Komponent Library.',
 		'exp.trifull.point2':
 			'Entwurf, Koordination und Implementierung eines internen Intranets für bestehende und neue Self-Services mit Figma, Kubernetes, Azure, Turborepo, React und Material UI.',
 		'exp.trifull.point3':
@@ -127,7 +127,7 @@ export const ui = {
 		'exp.tri.point1':
 			'Recherche, Design und Implementierung meiner Bachelorarbeit für eine kostenoptimierte Multi-Tenant-SaaS-Lösung für eine generische Buchungs-App für AWS unter Verwendung von Adobe XD, AWS-Services, Serverless-Architektur, React, Material UI und Express.',
 		'exp.tri.point2':
-			'Unterstützung der Entwickler Teams bei in den Bereichen Frontend, Backend und Cloud.',
+			'Unterstützung der Entwickler Teams bei in den Bereichen Frontend (HTML, CSS, JS/TS, React, Angular, Flutter), Backend (Node.js, JS/TS, Java, Python) und Cloud (Azure, AWS).',
 		'exp.tri.point3': 'Aktualisierung des Abonnementsystems eines React Frontends mit Stripe.',
 		'exp.daimler': 'Daimler AG - Deutschland, Stuttgart',
 		'exp.daimler.job': 'Praktikant in der App-Entwicklung',
