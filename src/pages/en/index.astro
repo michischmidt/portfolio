@@ -9,6 +9,7 @@ import SkillLayout from '../../components/SkillLayout.astro'
 import { Image } from 'astro:assets'
 import astro from '../../assets/michaelschmidt.png'
 import { getLangFromUrl, useTranslations } from '../../i18n/utils'
+import skills from 'src/data/skills'
 
 const lang = getLangFromUrl(Astro.url)
 const t = useTranslations(lang)
@@ -221,13 +222,13 @@ const others = ['Git', 'Scrum', 'DevOps', 'Turborepo', 'CI/CD', 'Docker', 'Atlas
 		</Section>
 		<Section title={t('skills.title')}>
 			<SkillLayout title={t('skills.languages')} skills={languages} />
-			<SkillLayout title={t('skills.programming')} skills={programming} />
-			<SkillLayout title='Frontend' skills={frontend} />
-			<SkillLayout title='Backend' skills={backend} />
-			<SkillLayout title={t('skills.database')} skills={database} />
-			<SkillLayout title='Cloud' skills={cloud} />
-			<SkillLayout title='Design' skills={design} />
-			<SkillLayout title={t('skills.others')} skills={others} />
+			<SkillLayout title={t('skills.programming')} skills={skills.programming} />
+			<SkillLayout title='Frontend' skills={skills.frontend} />
+			<SkillLayout title='Backend' skills={skills.backend} />
+			<SkillLayout title={t('skills.database')} skills={skills.database} />
+			<SkillLayout title='Cloud' skills={skills.cloud} />
+			<SkillLayout title='Design' skills={skills.design} />
+			<SkillLayout title={t('skills.others')} skills={skills.others} />
 		</Section>
 		<Section title={t('certs.title')}>
 			<Card

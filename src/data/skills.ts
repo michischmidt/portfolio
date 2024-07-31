@@ -5,20 +5,18 @@ const skills = {
 		'React',
 		'Next.js',
 		'TanStack (React) Query',
-		'Tailwind CSS',
+		'Tailwind',
 		'Material UI',
-		'Storybook',
 		'React Native',
-		'Jest',
-		'Redux',
+		'Storybook',
 		'Astro.js'
 	],
-	backend: ['REST', 'RPC', 'Node.js', 'Express', 'Spring Boot', 'Serverless Functions'],
+	backend: ['REST', 'RPC', 'Serverless Functions', 'Node.js', 'Spring Boot'],
 	database: ['SQL', 'PostgreSQL', 'MySQL', 'NoSQL', 'Key/Value Stores', 'DynamoDB'],
 	cloud: ['AWS', 'Azure', 'Firebase', 'Terraform', 'Vercel'],
 	design: ['Figma', 'Canva'],
 	programming: ['TypeScript', 'JavaScript', 'Java', 'Python'],
-	others: ['Git', 'Scrum', 'DevOps', 'CI/CD', 'Docker', 'Atlassian Toolchain', 'Turborepo']
+	others: ['Git', 'Scrum', 'DevOps', 'CI/CD', 'Docker', 'Atlassian Toolchain', 'Turborepo', 'Clean Code']
 }
 
 export default skills
