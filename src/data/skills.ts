@@ -16,7 +16,7 @@ const skills = {
 	cloud: ['Azure', 'AWS', 'Firebase', 'Terraform', 'Vercel'],
 	design: ['Figma', 'Canva'],
 	programming: ['TypeScript', 'JavaScript', 'Java', 'Python'],
-	others: ['Git', 'Scrum', 'DevOps', 'CI/CD', 'Docker', 'Atlassian Toolchain', 'Monorepo (Turborepo)', 'Clean Code']
+	others: ['Git', 'Scrum', 'DevOps', 'CI/CD', 'Docker', 'Atlassian Toolchain', 'Monorepo (Turborepo)', 'Clean Code', 'Testing']
 }
 
 export default skills
