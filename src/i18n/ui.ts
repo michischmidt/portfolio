@@ -83,7 +83,7 @@ export const ui = {
 			'One day project - simple CRUD SPA to get familiar with the Vue.js Framework. Build with Vue.ts, Tailwind, shadcn/vue, TanStack Query, JSONPlaceholder API and Vercel.',
 		'projects.recruit.title': 'Recruit Me If You Can! - WIP',
 		'projects.recruit.text':
-			'Recruiting tool for optimizing the LinkedIn recruiting process. Technologies used: Next.js, React, Tailwind, hadcn/react, TanStack Query, Java, Spring Boot, Docker, PostgreSQL.',
+			'Recruiting tool for optimizing the LinkedIn recruiting process. Technologies used: Next.js, React, Tailwind, shadcn/react, TanStack Query, Java, Spring Boot, Docker, PostgreSQL.',
 		'certs.title': 'Certifications',
 		'certs.oose': 'oose iSQB Qualification - Germany, Hamburg'
 	},
@@ -163,7 +163,7 @@ export const ui = {
 			'Ein eintägiges Projekt - einfache CRUD-SPA, um sich mit dem Vue.js Framework vertraut zu machen. Erstellt mit Vue.ts, Tailwind, shadcn/vue, TanStack Query, JSONPlaceholder API und Vercel.',
 		'projects.recruit.title': 'Recruit Me If You Can! - WIP',
 		'projects.recruit.text':
-			'Recruting Tool für das Optimieren des LinkedIn Recruting Prozess. Verwendete Technologien: Next.js, React, Tailwind, hadcn/react, TanStack Query, Java, Spring Boot, Docker, PostgreSQL.',
+			'Recruting Tool für das Optimieren des LinkedIn Recruting Prozess. Verwendete Technologien: Next.js, React, Tailwind, shadcn/react, TanStack Query, Java, Spring Boot, Docker, PostgreSQL.',
 		'certs.title': 'Zertifizierungen',
 		'certs.oose': 'oose iSQB Qualifikation - Deutschland, Hamburg'
 	}
