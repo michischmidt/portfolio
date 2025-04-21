@@ -21,8 +21,16 @@ export const ui = {
 
 		'contact.location': 'Germany, Regensburg',
 		'abstract.text':
-			'Passionate Full-Stack Software Developer with over 5 years of experience. Enthusiastic about working on challenging projects with experts, learning new technologies, and gaining practical knowledge.',
+			'Passionate Full-Stack Software Developer with over 5 years of experience. Enthusiastic about tackling challenging projects with experts, exploring new technologies and teaching others practical knowledge.',
+		'abstract.job':
+		'Always open for new carrer opportunities for freelancing or full time employement positions globally (romote or onsite). Feel free to reach out to me via LinkedIn or email.',
 		'exp.title': 'Experience',
+		'exp.syskron': 'Syskron GmbH',
+		'exp.syskron.job': 'Cloud Application Developer',
+		'exp.syskron.date': 'Jan 2025 – today',
+		'exp.syskron.point1': 'Being part of the development a comprehensive production assitant and monitoring tool for lines of Krones bottling plants.',
+		'exp.syskron.point2': 'Engineered backend and cloud infrastructure using AWS services, e.g. CDK and serverless functions with TypeScript.',
+		'exp.syskron.point3': 'Frontend development of the application using Angular, RxJS and NgRx.',
 		'exp.gg': 'Grow Ghana EDU - Ghana, Kokrobite',
 		'exp.gg.job': 'Volunteer & Teacher',
 		'exp.gg.date': 'Dec 2023 - Mar 2024',
@@ -59,8 +67,6 @@ export const ui = {
 			"Creation of a PoC API for push notifications for an internal employee self-service app using Java, Firebase and interal API's.",
 		'exp.daimler.point2':
 			'Supporting the team in feature development, quality analysis and communication between departures.',
-		'exp.daimler.point3':
-			'Presentation of the results to management and creation of a detailed documentation.',
 		'edu.title': 'Education',
 		'edu.uni': 'University of Regensburg',
 		'edu.uni.degree': 'Master of Science in Medieninformatik (on hold)',
@@ -101,8 +107,16 @@ export const ui = {
 			'Die auf dieser Webseite durch den Seitenbetreiber erstellten Inhalte und Werke unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Form der Verwertung außerhalb der Grenzen des Urheberrechts bedürfen der vorherigen schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Falls Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter respektiert und derartige Inhalte als solche gekennzeichnet. Sollten Sie auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir solche Inhalte umgehend entfernen.',
 		'contact.location': 'Deutschland, Regensburg',
 		'abstract.text':
-			'Leidenschaftlicher Full-Stack-Softwareentwickler mit über 5 Jahren Erfahrung. Begeistert von der Arbeit an anspruchsvollen Projekten mit Experten, dem Erlernen neuer Technologien und dem Erwerb praktischer Kenntnisse.',
+			'Leidenschaftlicher Full-Stack-Softwareentwickler mit über 5 Jahren Erfahrung. Begeistert davon, an anspruchsvollen Projekten mit Experten zu arbeiten, neue Technologien kennenzulernen und anderen praxisnahes Wissen zu vermitteln.',
+		'abstract.job':
+			"Immer offen für neue Karrierechancen als Freelancer oder für Festanstellungen weltweit (remote oder vor Ort). Kontaktieren Sie mich gerne über LinkedIn oder per E-Mail.",
 		'exp.title': 'Erfahrung',
+		'exp.syskron': 'Syskron GmbH',
+		'exp.syskron.job': 'Cloud Application Developer',
+		'exp.syskron.date': '01.01.2025 – heute',
+		'exp.syskron.point1': 'Teil der Entwicklung eines umfassenden Produktionsassistenten und Monitoring-Tools für Linien von Krones-Abfüllanlagen.',
+		'exp.syskron.point2': 'Konzeption und Implementierung von Backend- und Cloud-Infrastrukturen mit AWS-Services, z. B. CDK und serverlosen Funktionen in TypeScript.',
+		'exp.syskron.point3': 'Frontend-Entwicklung der Anwendung mit Angular, RxJS und NgRx.',
 		'exp.gg': 'Grow Ghana EDU - Ghana, Kokrobite',
 		'exp.gg.job': 'Freiwilliger & Lehrer',
 		'exp.gg.date': 'Dez 2023 - Mär 2024',

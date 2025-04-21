@@ -104,11 +104,27 @@ const languages = [
 			</section>
 		</div>
 		<Section title='Abstract'>
+			<p class='font-bold mb-1'>{t('abstract.job')}</p>
 			<p class='text-muted-foreground'>
 				{t('abstract.text')}
 			</p>
 		</Section>
 		<Section title={t('exp.title')}>
+			<Card
+				heading={t('exp.syskron')}
+				subheading={t('exp.syskron.job')}
+				date={t('exp.syskron.date')}
+				altText='Cloud Application Developer'
+				imageClass='h-12 w-auto md:-left-16'
+			>
+				<ul class='ml-4 list-disc text-muted-foreground'>
+					<li>
+						{t('exp.syskron.point1')}
+					</li>
+					<li>{t('exp.syskron.point2')}</li>
+					<li>{t('exp.syskron.point3')}</li>
+				</ul>
+			</Card>
 			<Card
 				heading={t('exp.gg')}
 				subheading={t('exp.gg.job')}
@@ -123,6 +139,7 @@ const languages = [
 					<li>{t('exp.gg.point2')}</li>
 				</ul>
 			</Card>
+
 			<Card
 				heading={t('exp.trifull')}
 				subheading={t('exp.trifull.job')}
@@ -145,9 +162,6 @@ const languages = [
 					</li>
 					<li>
 						{t('exp.trifull.point5')}
-					</li>
-					<li>
-						{t('exp.trifull.point6')}
 					</li>
 				</ul>
 			</Card>
@@ -181,9 +195,6 @@ const languages = [
 					</li>
 					<li>
 						{t('exp.daimler.point2')}
-					</li>
-					<li>
-						{t('exp.daimler.point3')}
 					</li>
 				</ul>
 			</Card>

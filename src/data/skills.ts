@@ -4,16 +4,18 @@ const skills = {
 		'CSS',
 		'React',
 		'Next.js',
-		// 'TanStack (React) Query',
+		'TanStack (React) Query',
 		'Tailwind',
 		'Material UI',
 		'React Native',
 		'Storybook',
-		'Astro.js'
+		'Astro.js', 
+		'Angular',
+		'Redux'
 	],
-	backend: ['REST', 'RPC', 'Node.js', 'Spring Boot', 'Serverless Functions'],
+	backend: ['REST', 'Serverless Functions', 'Sockets', 'Node.js', 'Spring Boot'],
 	database: ['SQL', 'PostgreSQL', 'MySQL', 'NoSQL', 'Key/Value Stores'],
-	cloud: ['Azure', 'AWS', 'Firebase', 'Terraform', 'Vercel'],
+	cloud: ['AWS', 'AWS-CDK', 'Azure', 'Firebase', 'Terraform', 'Vercel'],
 	design: ['Figma', 'Canva'],
 	programming: ['TypeScript', 'JavaScript', 'Java', 'Python'],
 	others: [
