@@ -93,7 +93,7 @@ export const ui = {
 		'certs.title': 'Certifications',
 		'certs.oose': 'oose iSQB Qualification - Germany, Hamburg',
 		// Freelancer Experience
-		'exp.freelancer': 'Freelancer – Regensburg, Germany',
+		'exp.freelancer': 'Freelancer – Germany, Regensburg',
 		'exp.freelancer.job': 'Web and Mobile Developer',
 		'exp.freelancer.date': 'Mar 2024 – Dec 2024',
 		'exp.freelancer.point1': 'Developed state-of-the-art landing pages for clients to enhance their digital presence using Next.js and serverless functions.',
@@ -188,7 +188,7 @@ export const ui = {
 			'Recruting Tool für das Optimieren des LinkedIn Recruting Prozess. Verwendete Technologien: Next.js, React, Tailwind, shadcn/react, TanStack Query, Java, Spring Boot, Docker, PostgreSQL.',
 		'certs.title': 'Zertifizierungen',
 		// Freelancer Experience
-		'exp.freelancer': 'Freelancer – Regensburg, Deutschland',
+		'exp.freelancer': 'Freelancer – Deutschland, Regensburg',
 		'exp.freelancer.job': 'Web- und Mobile-Entwickler',
 		'exp.freelancer.date': 'Mar 2024 – Dec 2024',
 		'exp.freelancer.point1': 'Entwicklung modernster Landingpages für Kunden zur Stärkung ihrer digitalen Präsenz mit Next.js und serverlosen Funktionen.',
