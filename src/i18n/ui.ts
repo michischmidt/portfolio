@@ -25,7 +25,7 @@ export const ui = {
 		'abstract.job':
 		'Always open for new carrer opportunities for freelancing or full time employement positions globally (romote or onsite). Feel free to reach out to me via LinkedIn or email.',
 		'exp.title': 'Experience',
-		'exp.syskron': 'Syskron GmbH',
+		'exp.syskron': 'Syskron GmbH - Germany, Regensburg',
 		'exp.syskron.job': 'Cloud Application Developer',
 		'exp.syskron.date': 'Jan 2025 – today',
 		'exp.syskron.point1': 'Being part of the development a comprehensive production assitant and monitoring tool for lines of Krones bottling plants.',
@@ -91,7 +91,15 @@ export const ui = {
 		'projects.recruit.text':
 			'Recruiting tool for optimizing the LinkedIn recruiting process. Technologies used: Next.js, React, Tailwind, shadcn/react, TanStack Query, Java, Spring Boot, Docker, PostgreSQL.',
 		'certs.title': 'Certifications',
-		'certs.oose': 'oose iSQB Qualification - Germany, Hamburg'
+		'certs.oose': 'oose iSQB Qualification - Germany, Hamburg',
+		// Freelancer Experience
+		'exp.freelancer': 'Freelancer – Regensburg, Germany',
+		'exp.freelancer.job': 'Web and Mobile Developer',
+		'exp.freelancer.date': 'Mar 2024 – Dec 2024',
+		'exp.freelancer.point1': 'Developed state-of-the-art landing pages for clients to enhance their digital presence using Next.js and serverless functions.',
+		'exp.freelancer.point2': 'Built a proof-of-concept parking application for a client utilizing React Native, Expo, and Ionic.',
+		'exp.freelancer.point3': 'Proactively acquired new clients, managed marketing activities, conducted requirements engineering, and led projects from conception to delivery.',
+		'exp.freelancer.point4': 'Co-founder of uncamino Digital Solutions GmbH and left the company in the same year to pursue a career focused solely on Software Engineering.'
 	},
 	de: {
 		imprint: 'Impressum',
@@ -111,11 +119,11 @@ export const ui = {
 		'abstract.job':
 			"Immer offen für neue Karrierechancen als Freelancer oder für Festanstellungen weltweit (remote oder vor Ort). Kontaktieren Sie mich gerne über LinkedIn oder per E-Mail.",
 		'exp.title': 'Erfahrung',
-		'exp.syskron': 'Syskron GmbH',
+		'exp.syskron': 'Syskron GmbH - Deutschland, Regensburg',
 		'exp.syskron.job': 'Cloud Application Developer',
-		'exp.syskron.date': '01.01.2025 – heute',
+		'exp.syskron.date': 'Jan 2025 – heute',
 		'exp.syskron.point1': 'Teil der Entwicklung eines umfassenden Produktionsassistenten und Monitoring-Tools für Linien von Krones-Abfüllanlagen.',
-		'exp.syskron.point2': 'Konzeption und Implementierung von Backend- und Cloud-Infrastrukturen mit AWS-Services, z. B. CDK und serverlosen Funktionen in TypeScript.',
+		'exp.syskron.point2': 'Konzeption und Implementierung von Backend- und Cloud-Infrastrukturen mit AWS-Services, z.B. CDK und serverlosen Funktionen in TypeScript.',
 		'exp.syskron.point3': 'Frontend-Entwicklung der Anwendung mit Angular, RxJS und NgRx.',
 		'exp.gg': 'Grow Ghana EDU - Ghana, Kokrobite',
 		'exp.gg.job': 'Freiwilliger & Lehrer',
@@ -179,6 +187,14 @@ export const ui = {
 		'projects.recruit.text':
 			'Recruting Tool für das Optimieren des LinkedIn Recruting Prozess. Verwendete Technologien: Next.js, React, Tailwind, shadcn/react, TanStack Query, Java, Spring Boot, Docker, PostgreSQL.',
 		'certs.title': 'Zertifizierungen',
+		// Freelancer Experience
+		'exp.freelancer': 'Freelancer – Regensburg, Deutschland',
+		'exp.freelancer.job': 'Web- und Mobile-Entwickler',
+		'exp.freelancer.date': 'Mar 2024 – Dec 2024',
+		'exp.freelancer.point1': 'Entwicklung modernster Landingpages für Kunden zur Stärkung ihrer digitalen Präsenz mit Next.js und serverlosen Funktionen.',
+		'exp.freelancer.point2': 'Entwicklung einer Proof-of-Concept-Park-App für einen Kunden mit React Native, Expo und Ionic.',
+		'exp.freelancer.point3': 'Aktive Neukundengewinnung, Durchführung von Marketingmaßnahmen, Anforderungsmanagement sowie Leitung von Projekten von der Konzeption bis zur Umsetzung.',
+		'exp.freelancer.point4': 'Mitgründer der uncamino Digital Solutions GmbH und im selben Jahr ausgeschieden, um sich vollständig auf Softwareentwicklung zu konzentrieren.',
 		'certs.oose': 'oose iSQB Qualifikation - Deutschland, Hamburg'
 	}
 } as const
