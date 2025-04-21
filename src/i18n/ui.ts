@@ -60,7 +60,7 @@ export const ui = {
 		'exp.tri.point2':
 			'Supporting the development teams in the areas of Frontend (HTML, CSS, JS/TS, React, Angular, Flutter), Backend (Node.js, JS/TS, Java, Python), and Cloud (Azure, AWS).',
 		'exp.tri.point3': 'Updating the subscription payment of a React frontend using Stripe.',
-		'exp.daimler': 'Daimler AG - Germany, Stuttgart',
+		'exp.daimler': 'Mercedes AG - Germany, Stuttgart',
 		'exp.daimler.job': 'App Development Intern',
 		'exp.daimler.date': 'Aug 2018 - Jan 2019',
 		'exp.daimler.point1':
@@ -154,7 +154,7 @@ export const ui = {
 		'exp.tri.point2':
 			'Unterstützung der Entwickler Teams bei in den Bereichen Frontend (HTML, CSS, JS/TS, React, Angular, Flutter), Backend (Node.js, JS/TS, Java, Python) und Cloud (Azure, AWS).',
 		'exp.tri.point3': 'Aktualisierung des Abonnementsystems eines React Frontends mit Stripe.',
-		'exp.daimler': 'Daimler AG - Deutschland, Stuttgart',
+		'exp.daimler': 'Mercedes AG - Deutschland, Stuttgart',
 		'exp.daimler.job': 'Praktikant in der App-Entwicklung',
 		'exp.daimler.date': 'Aug 2018 - Jan 2019',
 		'exp.daimler.point1':
