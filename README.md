@@ -2,7 +2,7 @@
 
 ## Features
 
-- Astro v4
+- Astro v5
 - TailwindCSS utility classes
 - ESLint / Prettier pre-installed and pre-configured
 - Accessible, semantic HTML markup
